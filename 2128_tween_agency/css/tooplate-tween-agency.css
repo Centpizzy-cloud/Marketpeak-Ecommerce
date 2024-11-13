@@ -65,7 +65,12 @@ h6 {
   font-weight: var(--font-weight-bold);
   line-height: normal;
 }
-
+/*
+marquee{
+backgroundcolor:gold;
+padding:20px;
+color:darkgreen;}
+*/
 h1 {
   font-size: var(--h1-font-size);
 }
